@@ -1,0 +1,48 @@
+.hdr{
+    background-color: #201d2df2; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .hdr li {
+    display: inline-block;
+    font-size: 18px;
+    padding: 20px;
+    
+  }
+  
+  .txt{
+      color: white;
+      text-decoration: none;
+      font-family: verdana;
+      display: inline-block;
+  }
+  
+  .btn{
+      background : #ff5722;
+      padding : 15px 20px;
+      border-radius : 00px;
+      color: #fff;
+      border: none;
+      font-size: 20px;
+  }
+  
+  .hm{
+      color: #ff5722;
+      text-decoration: none;
+      font-family: verdana;
+  }
+  
+  .hding{
+    color: #ff5722;	
+    text-align: center;
+    font-family: verdana;
+  }
+  
+  .headlines{
+      font-family:verdana;
+      
+  }
+  
